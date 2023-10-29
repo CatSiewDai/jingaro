@@ -1,7 +1,7 @@
 # Shen Zhen Media & Tech Enthusiast
 
 
-[![SZMTE's GitHub stats](https://github-readme-stats.vercel.app/api?username=szmte&show_icons=true&bg_color=-18.8,ffd400,009800&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szmte&show_icons=true&bg_color=-18.8,ffd400,009800&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Jingaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingaro&show_icons=true&bg_color=-18.8,ffd400,009800&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingaro&show_icons=true&bg_color=-18.8,ffd400,009800&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YuzuMin/YuzuMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
